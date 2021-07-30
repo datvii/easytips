@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/easytips/static/css/main.6bc4c07b.chunk.css",
-    "main.js": "/easytips/static/js/main.efedf715.chunk.js",
-    "main.js.map": "/easytips/static/js/main.efedf715.chunk.js.map",
+    "main.css": "/easytips/static/css/main.d4ad7663.chunk.css",
+    "main.js": "/easytips/static/js/main.6b6e9e66.chunk.js",
+    "main.js.map": "/easytips/static/js/main.6b6e9e66.chunk.js.map",
     "runtime-main.js": "/easytips/static/js/runtime-main.6280b7dd.js",
     "runtime-main.js.map": "/easytips/static/js/runtime-main.6280b7dd.js.map",
     "static/js/2.ce3b8e64.chunk.js": "/easytips/static/js/2.ce3b8e64.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.3d695a55.chunk.js": "/easytips/static/js/3.3d695a55.chunk.js",
     "static/js/3.3d695a55.chunk.js.map": "/easytips/static/js/3.3d695a55.chunk.js.map",
     "index.html": "/easytips/index.html",
-    "static/css/main.6bc4c07b.chunk.css.map": "/easytips/static/css/main.6bc4c07b.chunk.css.map",
+    "static/css/main.d4ad7663.chunk.css.map": "/easytips/static/css/main.d4ad7663.chunk.css.map",
     "static/js/2.ce3b8e64.chunk.js.LICENSE.txt": "/easytips/static/js/2.ce3b8e64.chunk.js.LICENSE.txt",
     "static/media/arrow_down.13a98b9e.svg": "/easytips/static/media/arrow_down.13a98b9e.svg",
     "static/media/hero.bf9ff922.jpg": "/easytips/static/media/hero.bf9ff922.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.6280b7dd.js",
     "static/js/2.ce3b8e64.chunk.js",
-    "static/css/main.6bc4c07b.chunk.css",
-    "static/js/main.efedf715.chunk.js"
+    "static/css/main.d4ad7663.chunk.css",
+    "static/js/main.6b6e9e66.chunk.js"
   ]
 }
